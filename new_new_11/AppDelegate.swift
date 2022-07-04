@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  new_new_11
+//  Lecture 11
 //
-//  Created by Ana Dzebniauri on 04.07.22.
+//  Created by Ana Dzebniauri on 30.06.22.
 //
 
 import UIKit
